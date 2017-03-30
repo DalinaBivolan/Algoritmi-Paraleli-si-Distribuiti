@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1490858609 source:c:\users\dalina\desktop\matrici\main.c
+	<omp.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
